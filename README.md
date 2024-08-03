@@ -49,6 +49,13 @@ NARUTO-V1-BUG Whatsapp crasher Multi Device whatsapp bot.
 1. If You don't have an account in Heroku. Create a account.
     <br>
 <p align="center"><a href="https://signup.heroku.com"> <img src="https://img.shields.io/badge/heroku%20Account-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+## ` BUILDPACKS FOR HEROKU`
+
+```
+heroku/nodejs
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+```
 
 #### DEPLOY TO KOYEB
 
