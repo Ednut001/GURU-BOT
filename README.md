@@ -64,12 +64,9 @@ SUPPORT CHANNEL: <a href="https://whatsapp.com/channel/0029VaefL9g0gcfLITSc841W"
 
 
 ## `Main Dev` 
-<a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="250" height="250" alt="Guru322"/></a>
+<a href="https://github.com/Ednut001"><img src="https://i.imgur.com/QvvICDx.jpeg" width="250" height="250" alt="Guru322"/></a>
   
 `NARUTO-V1-BUG - By Ednut001`
-
-### CONTRIBUTORS
-<a href="https://github.com/IndraTensei"><img src="https://github.com/IndraTensei.png" width="200" height="200" alt="Ash"/></a>
 
 <h2 align="center">  Reminder
 </h2>
